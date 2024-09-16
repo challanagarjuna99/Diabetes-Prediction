@@ -1,0 +1,30 @@
+Read this file before executing the code:
+
+Software which has to be installed before executing the files:
+1)Python(latest version)
+2)Anaconda(latest version)
+3)Python libraries -
+	->tkinter
+	->seaborn
+
+Steps to Execute the files :-
+
+Step 1)
+Copy the following files to your windows computer
+->Diabetes Prediction UI.ipynb
+->Diabetes_Prediction.ipynb
+
+Step 2)
+Copy the Diabeties.csv file to your c drive i.e C:/Diabeties.csv
+
+Step 3)
+Open Jupyter Notebook and Open Diabetes Prediction UI.ipynb and run the complete code.
+
+Step 4)
+Wait for 5-10 min for the code to execute and load the model.
+
+Step 5)
+After 5-10 min a windows application will start and with a empty form.
+
+Step 6)
+Enter the details to predict the diabeties.
